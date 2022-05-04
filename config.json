@@ -1,7 +1,7 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "56074",
-    "name": "kartik",
+    "ip": "schoolsmp2202.aternos.me",
+    "port": "51892",
+    "name": "AFK Bot",
     "password": "",
     "auto-night-skip": "false",
     "prefix": "",
@@ -13,3 +13,4 @@
     "web": "true"
     
 }
+
